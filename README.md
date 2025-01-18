@@ -69,6 +69,12 @@ project-root/
    ```bash
    mvn clean install
    ```
+Amazon Credentials:
+
+Add your Amazon account email and password to the 
+config.properties file in the following format:
+email=your_email@example.com
+password=your_password
 
 ### Running the Tests
 1. Execute the test suite:
